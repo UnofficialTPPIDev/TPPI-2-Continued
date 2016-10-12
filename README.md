@@ -71,7 +71,7 @@ Developers
 
 Contributing
 ===
-We love getting outside contributions, especially to our mod documentation system, however doing so can be a little complex for some.
+We love getting outside contributions, however doing so can be a little complex for some.
 
 First a note: If you are going to contribute, please make your contributions to the ___Development___ branch, not Release. Switch this by using the dropdown box on the main repo page.
 
