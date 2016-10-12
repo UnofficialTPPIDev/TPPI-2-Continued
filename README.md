@@ -1,4 +1,4 @@
-_Test Pack Please Ignore 2.5 Unofficial_ - Minecraft Modpack
+﻿_Test Pack Please Ignore 2 Unofficial_ - Minecraft Modpack
 ===============
 
 A public repository for all changes to the pack.
@@ -41,7 +41,7 @@ MOST IMPORTANTLY, have fun :)
 Developers
 ===============
 
-###Current Team
+###Unofficial Update Team
 
 - EaTzUrFaCe
 
@@ -49,9 +49,9 @@ Developers
 
 - Mooshake
 
-- FakoTheGreat
+###TPPI Team
 
-###Past Team Members
+- FakoTheGreat
 
 - esKaayY
 
