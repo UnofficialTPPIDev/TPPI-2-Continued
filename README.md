@@ -5,6 +5,8 @@ A public repository for all changes to the pack.
 
 We have a subreddit at http://www.reddit.com/r/TestPackPleaseIgnore/. Thanks for reading!
 
+Original TPPI2 Github at http://github.com/TPPIDev/TestPackPleaseIgnore2/.
+
 Information
 ===============
 
