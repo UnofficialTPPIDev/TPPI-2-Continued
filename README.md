@@ -1,4 +1,4 @@
-﻿_Test Pack Please Ignore 2 Unofficial_ - Minecraft Modpack
+﻿_Test Pack Please Ignore 2 Continued_ - Minecraft Modpack
 ===============
 
 A public repository for all changes to the pack.
